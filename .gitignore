@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# project files
+big_data_exercises/word_count.py
+big_data_exercises/most_used_word.py
+big_data_exercises/word_syllables.py
