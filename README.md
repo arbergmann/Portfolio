@@ -1,6 +1,14 @@
 # Portfolio of Data Science Work
 Portfolio of non-proprietary microprojects and code snippets, including academic, self-study, and hobby projects.
 
+## Projects
+Academic projects for Milestones I & II and Capstone for the University of Michigan's Master of Applied Data Science program.
+
+* [Value Stock Screener](https://arbergmann.github.io/value_stock_screener/): <i>An early project in the program, designed to create a data pipeline that scraped for the current S&P 500 ticker list, pulled data from Quandl (now Nasdaq) and Yahoo! Finance, and then through modular code filters for value stocks and returns a dataframe report of possible options and corresponding investing metrics.</i>
+* [Stock Price Analysis](https://github.com/arbergmann/milestone_II_stock_preds/blob/main/Final%20Report.pdf): <i>Analysis of FTSE 100 stocks, leveraging basic supervised and unsupervised methods to identify model performance against the benchmark, and identify trends and traits of certain potential trading categories.</i> 
+* [Survey and Backtesting of Advanced Stock Price Forecasting Models](https://augurychris.github.io/financial_forecasting_analysis/): <i>An expansion on concepts of the previous project, developing an end-to-end machine learning pipeline for forecasting stock prices on a daily scale. The dataset contained the S&P 500 tickers (reduced), and a survey of linear and non-linear models. The models were trained, tested, and validated on a ensembles of fundamental, technical, and decomposed features, and run against a backtesting framework to detect actual alpha generation in practical trading applications as a form of cross-validation.</i>
+
+
 
 ## Data Manipulation and Processing
 Code samples and exercises in Jupyter Notebooks exploring the utilizations of NLP, Time Series analysis, and data stream sampling.
