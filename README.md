@@ -1,6 +1,14 @@
 # Portfolio of Data Science Work
 Portfolio of non-proprietary microprojects and code snippets, including academic, self-study, and hobby projects.
 
+## Projects
+Academic projects for Milestones I & II and Capstone for the University of Michigan's Master of Applied Data Science program.
+
+* [Value Stock Screener](https://arbergmann.github.io/value_stock_screener/): <i>An early project in the program, designed to create a data pipeline that scraped for the current S&P 500 ticker list, pulled data from Quandl (now Nasdaq) and Yahoo! Finance, and then through modular code filters for value stocks and returns a dataframe report of possible options and corresponding investing metrics.</i>
+* <a href="/assets/Milestone II Final Report.pdf" target="_blank">Stock Price Prediciton and Clustering</a>: <i>Analysis of FTSE 100 stocks, leveraging basic supervised and unsupervised methods to identify model performance against the benchmark, and identify trends and traits of certain potential trading categories.</i> 
+* [Survey and Backtesting of Advanced Stock Price Forecasting Models](https://augurychris.github.io/financial_forecasting_analysis/): <i>An expansion on concepts of the previous project, developing an end-to-end machine learning pipeline for forecasting stock prices on a daily scale. The dataset contained the S&P 500 tickers (reduced), and a survey of linear and non-linear models. The models were trained, tested, and validated on a ensembles of fundamental, technical, and decomposed features, and run against a backtesting framework to detect actual alpha generation in practical trading applications as a form of cross-validation.</i>
+
+
 
 ## Data Manipulation and Processing
 Code samples and exercises in Jupyter Notebooks exploring the utilizations of NLP, Time Series analysis, and data stream sampling.
@@ -20,7 +28,7 @@ Code samples and exercises in Jupyter Notebooks exploring big data processing th
 
 
 ## Visualization
-Code samples and exercises in Jupyter Notebooks using the Altair visualization library. Due to known rendering issues within GitHub and in `html` format, PDFs are also available, but lack the ideal formatting and interactivity that is provided in the Jupyter notebooks. (<b>Libraries:</b> <i>NumPy, Pandas, Altair, networkx, nx_altair, matplotlib, Seaborn, squarify, Sklearn, SciPy, json</i>)
+Code samples and exercises in Jupyter Notebooks primarily using the Altair visualization library. Due to known rendering issues within GitHub and in `html` format, PDFs are also available, but lack the ideal formatting and interactivity that is provided in the Jupyter notebooks. (<b>Libraries:</b> <i>NumPy, Pandas, Altair, networkx, nx_altair, matplotlib, Seaborn, squarify, Sklearn, SciPy, json</i>)
 
 * [Crash Reports](https://github.com/arbergmann/portfolio/blob/main/visualization_exercises/altair_crash_reports.ipynb): <i>An exploration of crash reports in Chicago along specific thoroughfares.  </i> ([PDF](https://github.com/arbergmann/portfolio/blob/main/visualization_exercises/pdfs/altair_crash_reports.pdf))
 * [Bechdel Test](https://github.com/arbergmann/portfolio/blob/main/visualization_exercises/altair_bechdel.ipynb):  <i>A look at 50 movies against new ways of measuring and visualizing gender imabalnce.  </i> ([PDF](https://github.com/arbergmann/portfolio/blob/main/visualization_exercises/pdfs/altair_bechdel.pdf))
@@ -29,3 +37,4 @@ Code samples and exercises in Jupyter Notebooks using the Altair visualization l
 * [Bob Ross](https://github.com/arbergmann/portfolio/blob/main/visualization_exercises/altair_bob_ross.ipynb):  <i>Bob Ross painting analysis, specifically feature inclusion in each of his paintings. (<b>Note:</b> Interactive notebook)  </i> ([PDF](https://github.com/arbergmann/portfolio/blob/main/visualization_exercises/pdfs/altair_bob_ross.pdf))
 * [Marvel vs DC](https://github.com/arbergmann/portfolio/blob/main/visualization_exercises/altair_marvel_vs_dc.ipynb):  <i>Comparison of Marvel vs DC characters, specifically analytics of new character introduction. (<b>Note:</b> Interactive notebook)  </i> ([PDF](https://github.com/arbergmann/portfolio/blob/main/visualization_exercises/pdfs/altair_marvel_vs_dc.pdf))
 * [Simpsons](https://github.com/arbergmann/portfolio/blob/main/visualization_exercises/altair_simpsons.ipynb):  <i>A visual look at quotable convsations in The Simpsons, leveraging network analysis in Altair. (<b>Note:</b> Interactive notebook)  </i> ([PDF](https://github.com/arbergmann/portfolio/blob/main/visualization_exercises/pdfs/altair_simpsons.pdf))
+* [Plotly Demo Walkthrough](https://github.com/arbergmann/portfolio/blob/main/visualization_exercises/plotly_demo_walkthrough.ipynb):  <i>A small project writeup that required creating a tutorial for a visualization library (Plotly). (<b>Note:</b> Interactive notebook)  </i> ([PDF](https://github.com/arbergmann/portfolio/blob/main/visualization_exercises/pdfs/plotly_demo_walkthrough.pdf))
