@@ -1,5 +1,0 @@
-yelp_academic_dataset_review.json.gz filter=lfs diff=lfs merge=lfs -text
-yelp_academic_dataset_user.json.gz filter=lfs diff=lfs merge=lfs -text
-yelp_academic_dataset_business.json.gz filter=lfs diff=lfs merge=lfs -text
-yelp_academic_dataset_checkin.json.gz filter=lfs diff=lfs merge=lfs -text
-yelp_academic_dataset_tip.json.gz filter=lfs diff=lfs merge=lfs -text
