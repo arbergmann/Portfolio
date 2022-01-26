@@ -1,6 +1,8 @@
 # Portfolio of Data Science Work
 Portfolio of non-proprietary microprojects and code snippets, including academic, self-study, and hobby projects.
 
+Updated regularly with new and intriguing projects that I feel exhibit unique skills, libraries, or concepts.
+
 ## Projects
 Academic projects for Milestones I & II and Capstone for the University of Michigan's Master of Applied Data Science program.
 
