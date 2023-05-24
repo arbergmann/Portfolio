@@ -12,6 +12,11 @@ Academic projects for Milestones I & II and Capstone for the University of Michi
 
 
 
+## Proof of Concept Work
+* [Pricing and Monetization Dashboard](https://github.com/arbergmann/revOps_dashboard): <i>A proof of concept project using mock data to practice modeling out different ways to design a rev ops/pricing dashboard. UX portion still under construction.</i>
+
+
+
 ## Data Manipulation and Processing
 Code samples and exercises in Jupyter Notebooks exploring the utilizations of NLP, Time Series analysis, and data stream sampling.
 
